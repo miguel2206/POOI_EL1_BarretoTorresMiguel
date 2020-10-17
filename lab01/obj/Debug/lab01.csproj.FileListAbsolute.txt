@@ -1,0 +1,10 @@
+C:\Users\Miguel_2\source\repos\.NET\EXAMEN1\lab01\bin\Debug\lab01.exe.config
+C:\Users\Miguel_2\source\repos\.NET\EXAMEN1\lab01\bin\Debug\lab01.exe
+C:\Users\Miguel_2\source\repos\.NET\EXAMEN1\lab01\bin\Debug\lab01.pdb
+C:\Users\Miguel_2\source\repos\.NET\EXAMEN1\lab01\obj\Debug\lab01.csprojAssemblyReference.cache
+C:\Users\Miguel_2\source\repos\.NET\EXAMEN1\lab01\obj\Debug\lab01.Form1.resources
+C:\Users\Miguel_2\source\repos\.NET\EXAMEN1\lab01\obj\Debug\lab01.Properties.Resources.resources
+C:\Users\Miguel_2\source\repos\.NET\EXAMEN1\lab01\obj\Debug\lab01.csproj.GenerateResource.cache
+C:\Users\Miguel_2\source\repos\.NET\EXAMEN1\lab01\obj\Debug\lab01.csproj.CoreCompileInputs.cache
+C:\Users\Miguel_2\source\repos\.NET\EXAMEN1\lab01\obj\Debug\lab01.exe
+C:\Users\Miguel_2\source\repos\.NET\EXAMEN1\lab01\obj\Debug\lab01.pdb
